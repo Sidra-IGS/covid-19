@@ -23,4 +23,4 @@ Uses only the 8 CO-RE channels to extract RNA from 24 samples at a time.
 **COVID19_96Head_V3**
 Uses the 8 CO-RE channels to distribute beads, the other steps are all performed using the 96 MTP head with liquid level sensing.
 
-These programs were written for our specific configuration (Hamilton STAR X) and will need adjustments to the local deck configuration. We stronlgy encourage users to adopt the same layout since it minimises travel of contaminated tips to the waste position and across reagents and samples.
+These programs were written for our specific configuration (Hamilton STAR X) and will need adjustments to the local deck configuration. We strognly encourage users to adopt the same layout since it minimises travel of contaminated tips to the waste position and across reagents and samples.
